@@ -5,8 +5,8 @@
   Released into the public domain.
 */
 
-#include <Arduino.h>
-#include <Morse.h>
+#include "Arduino.h"
+#include "Morse.h"
 
 Morse::Morse(int pin)
 {
