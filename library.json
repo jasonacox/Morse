@@ -1,0 +1,15 @@
+{
+  "name": "Morse",
+  "keywords": "Morse, Code, Communication",
+  "description": "Arduino library to send Morse Code dots and dashes on a GPIO pin.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonacox/Morse.git"
+  },
+  "authors": {
+    "name": "Jason Cox",
+    "url": "https://jasonacox.com"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
