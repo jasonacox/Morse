@@ -1,8 +1,8 @@
 # Morse
 
-Arduino library to send Morse Code dots and dashes on a pin.
+Arduino library to send Morse Code dots and dashes on a specified pin.
 
-## Description 
+## Description
 
 This is a simple Arduino library used to demonstrate how you can extend the functionality of Arduino.
 
